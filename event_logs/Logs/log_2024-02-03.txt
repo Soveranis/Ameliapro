@@ -1,0 +1,14 @@
+2024-02-03 09:24:51 - User: admin - Message: Intento de inicio de sesión con usuario inexistente.
+2024-02-03 09:48:01 - User: adsda - Message: Intento de inicio de sesión con usuario inexistente.
+2024-02-03 09:51:21 - User: admin - Message: Intento de inicio de sesión con usuario inexistente.
+2024-02-03 09:51:46 - User: admin - Message: Intento de inicio de sesión bloqueado temporalmente debido a demasiados intentos fallidos.
+2024-02-03 09:51:59 - User: admin - Message: Inicio de sesión exitoso como Administrador Sistemas.
+2024-02-03 09:52:40 - User:  - Message: Cierre de sesión exitoso
+2024-02-03 09:52:53 - User: admin - Message: Inicio de sesión exitoso como Administrador Panteones.
+2024-02-03 10:00:24 - User: admin - Message: Cierre de sesión exitoso
+2024-02-03 10:02:37 - User: admin - Message: Inicio de sesión exitoso como Administrador Panteones.
+2024-02-03 13:24:06 - User:  - Message: Intento de inicio de sesión sin usuario y contraseña.
+2024-02-03 13:24:24 - User: admin - Message: Inicio de sesión exitoso como Administrador Panteones.
+2024-02-03 14:30:25 - User: admin - Message: Cierre de sesión exitoso
+2024-02-03 14:30:29 - User: admin - Message: Intento de inicio de sesión con contraseña incorrecta.
+2024-02-03 14:30:34 - User: admin - Message: Inicio de sesión exitoso como Administrador Panteones.

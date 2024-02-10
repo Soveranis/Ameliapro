@@ -1,0 +1,3 @@
+2024-02-10 09:16:31 - User:  - Message: Intento de inicio de sesión sin usuario y contraseña.
+2024-02-10 09:18:56 - User: admin - Message: Inicio de sesión exitoso como Administrador Panteones.
+2024-02-10 10:51:46 - User: admin - Message: Cierre de sesión exitoso

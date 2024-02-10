@@ -1,0 +1,16 @@
+2024-01-27 11:19:42 - User-id:  - File: Nuevo_panteon.php - Line: 71 - Error: Error en la ejecución: Column 'Responsable_cap' cannot be null
+2024-01-27 11:20:39 - User: admin - Message: Cierre de sesión exitoso
+2024-01-27 11:21:18 - User: Admin23_ - Message: Inicio de sesión exitoso como Administrador Sistemas.
+2024-01-27 11:22:25 - User: Aron3_d - Message: Inicio de sesión exitoso como Administrador Panteones.
+2024-01-27 11:23:01 - User-id: 2 - File: Nuevo_panteon.php - Line: 56 - Message: Registro exitoso
+2024-01-27 11:25:26 - User-id: 2 - File: Nuevo_Lote.php - Line: 43 - Mensaje: Registro exitoso
+2024-01-27 11:25:37 - User-id: 2 - File: Nuevo_Lote.php - Line: 43 - Mensaje: Registro exitoso
+2024-01-27 11:28:56 - User-id: 2 - File: Nueva_tumba.php - Line: 41 - Message: Registro exitoso
+2024-01-27 11:31:55 - User-id: 2 - File: Nueva_tumba.php - Line: 41 - Message: Registro exitoso
+2024-01-27 11:38:32 - User-id: 2 - File: Nueva_tumba.php - Line: 41 - Message: Registro exitoso
+2024-01-27 11:39:33 - User-id: 2 - File: Nuevo_servicio.php - Line: 57 - Message: Registro exitoso
+2024-01-27 11:41:25 - User-id: 2 - File: Nuevo_servicio.php - Line: 57 - Message: Registro exitoso
+2024-01-27 11:42:13 - User-id: 2 - File: Nuevo_servicio.php - Line: 57 - Message: Registro exitoso
+2024-01-27 11:53:23 - User-id: 2 - File: Nuevo_servicio.php - Line: 57 - Message: Registro exitoso
+2024-01-27 11:53:41 - User-id: 2 - File: Nuevo_servicio.php - Line: 57 - Message: Registro exitoso
+2024-01-27 11:55:38 - User-id: 2 - File: Nuevo_servicio.php - Line: 57 - Message: Registro exitoso
